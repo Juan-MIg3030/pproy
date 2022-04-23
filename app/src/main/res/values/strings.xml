@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PracticaJ</string>
+    <string name="pasar_actividad">Pasar actividad</string>
+    <string name="volver">Volver</string>
+
+
+    <string-array name="opciones_spinner">
+        <item>Garoto</item>
+        <item>Diana</item>
+        <item>Lola</item>
+        <item>Rihana</item>
+
+    </string-array>
+
+
+</resources>
